@@ -15,5 +15,5 @@ In the dataset different columns represent features, These are explained below.
 2. Luminosity (L/Lo): The luminosity of the star, normalized to the luminosity of the Sun (Lo is solar luminosity).
 3. Radius (R/Ro): The radius of the star, normalized to the radius of the Sun (Ro is the solar radius).
 4. Absolute Magnitude (Mv): The absolute magnitude of the star, which is a measure of its intrinsic brightness.
-5. Star Color: A categorical column indicating the colour of the star. Colours are usually represented as single letters (e.g., 'B' for blue, 'O' for orange).
+5. Star Color: A categorical column indicating the colour of the star.
 6. Spectral Class: A categorical column indicating the spectral class of the star. Spectral classes categorize stars based on their spectral lines and temperature. Typical classes include 'O', 'B', 'A', 'F', 'G', 'K', and 'M'.
